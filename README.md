@@ -1,4 +1,4 @@
-# Consensus-based_control
+# Q-learning Car
 % Readme                                           
 
 About the Project - 
